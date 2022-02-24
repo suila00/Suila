@@ -10,5 +10,7 @@ class MainActivity : AppCompatActivity() {
         //connectGITHUB
 
         //changeCommit
+
+        //funcionalidade1 branch commit
     }
 }
